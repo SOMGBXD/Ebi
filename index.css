@@ -1,0 +1,36 @@
+.red {
+  color: red;
+}
+
+.txt {
+  background-color: aliceblue;
+  padding: 15px;
+  line-height: 25px;
+  color: blue;
+}
+
+.center {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  letter-spacing: 1px;
+  background-color: rgb(219, 219, 219);
+}
+
+.block {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(204, 204, 206);
+  display: flex;
+}
+
+.mg8 {
+  margin: 8px;
+}
+.mgr8 {
+  margin-right: 8px;
+}
+.mgt8 {
+  margin-top: 8px;
+}
